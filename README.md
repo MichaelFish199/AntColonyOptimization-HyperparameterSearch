@@ -3,7 +3,7 @@ Searching for hyperparameters in ant colony optimization of Professor Wojciech B
 
 This repository contains:
 - HyperpameterSearch.jpynb for searching hyperparameters
-- Testing.jpynb for testing parameters
+- Test.jpynb for testing parameters
 - Results from 120 trials in ReadMe.md
 
 # Results
